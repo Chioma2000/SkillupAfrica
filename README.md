@@ -14,6 +14,9 @@ Given an array with integers of length 6. Write a bubble sort algorithm to arran
  
 
   
+
+
+
 function bubbleSort(&$arr) 
 { 
     
